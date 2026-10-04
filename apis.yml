@@ -39,7 +39,6 @@ apis:
   - name: Tenders in Romania
     description: "Get data for procurements in Romania in JSON format"
     humanURL: https://tenders.guru/ro/api
-    baseURL: https://tenders.guru/ro/api
     tags:
       - Business
     properties:
